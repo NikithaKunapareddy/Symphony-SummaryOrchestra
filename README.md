@@ -1,9 +1,6 @@
-
-
 # 🎼🤖 Symphony Summary Orchestra 📰✨
 
 > **Transform every link into a standing ovation. Let your bots perform, narrate, and inspire!**
-
 
 Step into the world of **Symphony Summary Orchestra** — the API where every song or news link is reimagined as a creative, language-aware, and personality-driven performance. From Bollywood blockbusters to J-Pop gems to headline news, your bot personas become the stars of a digital stage, delivering summaries with artistry, empathy, and a spark of magic.
 
